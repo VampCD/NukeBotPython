@@ -2,9 +2,10 @@
 
 #### **Nuke any server, at any time.**
 
-## Information & Usage:
+## Information:
 - This can be used to nuke bots.
 - I'm not responsible for your actions and the things you do with this bot, it has been made for educational purposes only.
+- This file is licensed under MIT license.
 
 ## Usage:
 - Open Terminal in the same directory as **main.py** and run the following command:
